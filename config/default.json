@@ -1,7 +1,7 @@
 {
-  "serverPort" : 5004,
+  "serverPort" : 5000,
   "dbUrl": "mongodb+srv://daryn:pq9z5zZpKfeOv14t@cluster0.p1myo.mongodb.net/communalDB?retryWrites=true&w=majority",
   "secretKey": "mern-secket-key",
-  "filePath": "C:\\Users\\su1t\\Desktop\\project_daryn\\server\\files",
-  "staticPath": "C:\\Users\\su1t\\Desktop\\project_daryn\\server\\static"
+  "filePath": "/home/communal/server/files",
+  "staticPath": "/home/communal/server/static"
 }
